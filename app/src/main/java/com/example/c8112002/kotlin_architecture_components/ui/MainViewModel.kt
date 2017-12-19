@@ -20,7 +20,6 @@ class MainViewModel(): ViewModel() {
             user.name
         }
         Log.d("MainViewModel", "init")
-
     }
 }
 
